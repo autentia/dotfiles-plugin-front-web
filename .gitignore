@@ -1,0 +1,9 @@
+.idea
+.vscode
+
+/projects/**
+!/projects/.gitkeep
+
+/plugins/**
+!/plugins/.gitkeep
+
